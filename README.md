@@ -1,4 +1,4 @@
-# [Nics Portfolio]
+# Nics Portfolio
 
 
 
