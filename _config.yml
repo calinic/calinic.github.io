@@ -94,9 +94,9 @@ analytics:
 # Site Author
 author:
   name             : "Nicolas Nellum"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "College student the **loves** computers!"
-  location         : "Los Angeles, California"
+  avatar           : "C:\Users\nnnel\Desktop\calinic.github.io\images\me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "College student that **loves** computers!"
+  location         : "Los Angeles, CA"
   email            :
   links:
     - label: "Email"
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "calinic"
+       url: "https://github.com/calinic"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
