@@ -6,4 +6,4 @@ author_profile: true
 header: 
     image: "/images/redwoods.jpg"
 ---
-##*Coming Soon*##
+## *Coming Soon*
