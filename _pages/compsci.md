@@ -1,13 +1,12 @@
 ---
 layout: archive
-url: /comp-sci/
+permalink: /comp-sci/
 title: "Computer Science Posts by Tags"
 author_profile: true 
 header: 
     image: "/images/cloudy.jpg"
 ---
 
-{% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
