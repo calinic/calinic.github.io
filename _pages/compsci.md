@@ -4,7 +4,7 @@ permalink: /comp-sci/
 title: "Computer Science Posts by Tags"
 author_profile: true 
 header: 
-    image: "/images/cloudy.jpg"
+    image: "/images/redwoods.jpg"
 ---
 
 {% include group-by-array collection=site.posts field="tags" %}

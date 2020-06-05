@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Nicolas Nellum"
   avatar           : "/images/me.jpg"
-  bio              : "College student that **loves** computers!"
+  bio              : "**Love** the beach"
   location         : "Los Angeles, CA"
   email            :
   links:
@@ -129,7 +129,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+       url:  "calinic"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
