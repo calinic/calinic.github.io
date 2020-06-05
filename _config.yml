@@ -98,7 +98,7 @@ author:
   bio              : "**Love** the beach"
   location         : "Los Angeles, CA"
   email            : "nnnellum@gmail.com"
-  github           : "calinic"
+  #github           : "calinic"
 
     links:
     - label: "Email"
