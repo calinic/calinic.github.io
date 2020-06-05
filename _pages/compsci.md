@@ -4,7 +4,7 @@ permalink: /comp-sci/
 title: "Computer Science Posts by Tags"
 author_profile: true 
 header: 
-    image: "C:\Users\nnnel\Desktop\calinic.github.io\images\cloudy.jpg"
+    image: "/images/cloudy.jpg"
 ---
 
 {% include base_path %}
