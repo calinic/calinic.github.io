@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /comp-sci/
+url: /comp-sci/
 title: "Computer Science Posts by Tags"
 author_profile: true 
 header: 
